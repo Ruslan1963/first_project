@@ -1,3 +1,5 @@
+# list of ignored files
 *.log
 logs/*
+# list of unignored files
 !rare_critical_logs.log
